@@ -1,0 +1,1 @@
+import type {Config} from 'tailwindcss';export default {content:['./src/**/*.{ts,tsx}'],theme:{extend:{colors:{forest:'#174C35',mint:'#EAF4E8',cream:'#FBFCF8'},boxShadow:{soft:'0 12px 38px rgba(22,65,42,.07)'}}},plugins:[]} satisfies Config;
